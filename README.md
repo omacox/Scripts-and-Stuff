@@ -27,9 +27,11 @@ exit
 
 ## aws_cost_report.sh
 
-    -Example of result of the script running providing Script description and usage information for aws_cost_report.sh.
+Example of result of the script running providing Script description
+and usage information for aws_cost_report.sh.
 
 ```bash
+
 AWS Cost and Usage Report
 ----------------------------------------------------------------------------------
 |  Service Name      |  Usage Amount  |   Cost    |  Running Total |
@@ -61,9 +63,9 @@ AWS Cost and Usage Report
 
 ## policy_user_list.sh
 
-    - This list all users that you have access to via aws cl
+This list all users that you have access to via aws cl
 
-    - Enter number and will provide all permissions given to the users
+Enter number and will provide all permissions given to the users
 
 start the app on the command line
 
@@ -73,23 +75,23 @@ start the app on the command line
 
 ```
 
-    - Example of Menu
+Example of the Menu
 
 ```bash
 
 Fetching list of IAM users...
 IAM Users:
- 1. ChrisKT
- 2. Coast
- 3. Ian
- 4. Kit
- 5. kitkat
- 6. Kyra
- 7. Oma
+ 1. KTa
+ 2. BiCoast
+ 3. Ianic
+ 4. Kitter
+ 5. kitkater
+ 6. Kyral
+ 7. Omaha
  8. PrimeDev
- 9. Tim
-10. tim-acmewerx-s3
-11. Zahi
+ 9. TimHold
+10. timhold-acmewerx-s3
+11. ZeeChee
 Select a user by number (or press X to exit):
 
 ```
