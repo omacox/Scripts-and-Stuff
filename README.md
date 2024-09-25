@@ -5,6 +5,8 @@
 - [menu.sh](#menu-sh)
 - [aws_cost_report.sh](#aws_cost_reportsh)
 - [policy_user_list.sh](#policy_user_listsh)
+- [services_list_check_2_file.sh](#services_list_check_2_filesh)
+- [services_all_used.sh](#services_all_usedsh)
 
 ## Enviorment in Terminal
 
@@ -95,3 +97,12 @@ IAM Users:
 Select a user by number (or press X to exit):
 
 ```
+
+## services_list_check_2_file.sh
+
+List all services from csv file output to screen and datetime stamped file
+the file aws_all_services_mod.csv contains the list of services and commands
+
+## services_all_used.sh
+
+list of groups of services to check and list to file and terminal screen
